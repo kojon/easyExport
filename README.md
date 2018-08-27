@@ -1,6 +1,12 @@
 # easyExport
 基于注解的poi的excel导出，在变量上配置即可，灵活强大！
 
+## jdk编译版本
+1.8
+
+## 容器
+springboot内置tomcat
+
 ## maven依赖：
 - spring boot 2.0
 - lombok 编译时请给ide安装lombok插件
